@@ -1,1 +1,2 @@
 # AI-Trading-Bot
+This is an AI-powered trading bot that utilizes sentiment analysis from financial news to make trading decisions. It connects to the Alpaca API for trading operations and uses a strategy that buys or sells a specific stock (like SPY) based on positive or negative sentiment and a high confidence probability derived from recent news articles. The bot automatically adjusts its positions based on available cash, last stock price, and predefined risk parameters, enhancing trading efficiency through automation.
